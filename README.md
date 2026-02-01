@@ -39,9 +39,9 @@ sudo bash basic-install.sh"
 
 
 # Resources
-https://docs.pi-hole.net/main/basic-install/
-https://ubuntu.com/download/desktop
-https://www.virtualbox.org/
+https://docs.pi-hole.net/main/basic-install/ <br>
+https://ubuntu.com/download/desktop <br>
+https://www.virtualbox.org/<br>
 
 
 # Pictures
