@@ -3,7 +3,13 @@
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/35e379e6-ec07-4ccd-a9cd-49728e3f11cc" />
 
 ## What is PiHole?
-PiHole is network wide ad and domain blocker. The service typically runs on the a rasberry Pi but in this case it was ran of an ubuntu virtual machine.
+PiHole is network wide ad and domain blocker.
+
+## Skills
+* ip addressing
+* DNS
+* Virtual Machines
+
 
 # Set up
 
@@ -39,8 +45,10 @@ sudo bash basic-install.sh"
 
 
 # Resources
-https://docs.pi-hole.net/main/basic-install/ <br>
-https://ubuntu.com/download/desktop <br>
+https://docs.pi-hole.net/main/basic-install/
+<br>
+https://ubuntu.com/download/desktop
+<br>
 https://www.virtualbox.org/<br>
 
 
