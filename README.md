@@ -38,14 +38,27 @@ sudo bash basic-install.sh"
 
 
 
+# Resources
+https://docs.pi-hole.net/main/basic-install/
+https://ubuntu.com/download/desktop
+https://www.virtualbox.org/
 
 
-## Pictures
+# Pictures
+## Create account
 <img width="1822" height="1289" alt="image" src="https://github.com/user-attachments/assets/fdaa37f9-cea2-4723-a012-056a4fb5becf" />
+
+## Set Static IP
 <img width="1265" height="530" alt="Screenshot 2026-01-31 at 11 02 43 PM" src="https://github.com/user-attachments/assets/8293b795-2664-4f4c-8e28-97d69dd4cd04" />
-<img width="651" height="409" alt="Screenshot 2026-01-31 at 11 21 49 PM" src="https://github.com/user-attachments/assets/2b1b9864-458f-4f82-b00b-9983f26c4e68" />
+
+## View admin Dashboard
 <img width="1511" height="822" alt="Screenshot 2026-01-31 at 11 28 35 PM" src="https://github.com/user-attachments/assets/095f9f4f-d6d4-4875-bc2e-fc7e09635289" />
+
+## Setup block list and groups
 <img width="1244" height="761" alt="Screenshot 2026-01-31 at 11 24 47 PM" src="https://github.com/user-attachments/assets/68a0914d-1d07-47d5-b656-6a83f8ad8bca" />
+
+## Set as DNS for device or network
+<img width="651" height="409" alt="Screenshot 2026-01-31 at 11 21 49 PM" src="https://github.com/user-attachments/assets/2b1b9864-458f-4f82-b00b-9983f26c4e68" />
 
 
 
